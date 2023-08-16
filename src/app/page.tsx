@@ -13,7 +13,7 @@ export default function signin(){
         </>
       )
     }
-    if(name === "GIANNA" && pass === "IsTheBest"){
+    if(name === "MSBURCH" && pass === "IsTheBest"){
       return(
         <>
           <Link href="/blog2">Gianna blog</Link>
